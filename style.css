@@ -44,6 +44,15 @@ main {
     font-size: 2rem;
     color: white;
 }
+.herowrap p {
+    text-align: center;
+}
+.herowrap p a{
+    
+    color: black;
+    text-decoration: none;
+}
+
 form {
     /* border: 2px solid black; */
     /* position: relative; */
